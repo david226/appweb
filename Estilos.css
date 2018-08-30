@@ -1,0 +1,31 @@
+
+    .div1 {
+      float:left;
+      width: 720px;
+      height: 450px;
+      background-color: #CC6600; 
+    }
+    .div2 {
+      float:left;
+      width: 400px;
+      height: 450px;
+      background-color: #00FF10; 
+    }
+	
+	 #mdialTamanio{
+  width: 90% !important;
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
